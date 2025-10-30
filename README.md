@@ -31,4 +31,4 @@ A documentação completa do Symfony 6 pode ser encontrada em https://symfony.co
 Se você encontrar algum erro ou tiver alguma sugestão para melhorar este projeto, sinta-se à vontade para criar um pull request ou abrir uma issue no repositório. Sua contribuição é muito bem-vinda!
 
 ## Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.# site-de-noticias
