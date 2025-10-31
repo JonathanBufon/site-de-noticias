@@ -34,7 +34,7 @@ class HomeController extends AbstractController
         ]);
     }
 
-    #[Route('/categoria/{slug}', name: 'app_category_list')]
+    #[Route('/categoria/{slug}', name: 'app_category')]
     public function category(string $slug = null): Response
     {
         $categorias = [
